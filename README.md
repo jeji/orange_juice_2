@@ -8,7 +8,7 @@ bilibili：https://b23.tv/pqzW2up
 # 信息 Information
 - 除**板子尺寸及GPIO配置与orange juice_zero有所区别**外，其他信息例如BOM等都与[orange juice for orange pi zero](https://github.com/jeji/orange_juice)一致
 - **(!)请确保你认真[orange juice for orange pi zero](https://github.com/jeji/orange_juice)说明文档**
-- gerber文件夹下为嘉立创EDA导出文件，可直接领券下单 \
+- gerber文件夹下为嘉立创EDA导出文件，可直接领券下单 
 
 - Except **GPIO config and board size**, Other inform is same as [orange juice for orange pi zero](https://github.com/jeji/orange_juice)
 - **(!)Make sure you read [orange juice for orange pi zero](https://github.com/jeji/orange_juice) carefully**
