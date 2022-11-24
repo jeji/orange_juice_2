@@ -3,7 +3,10 @@ youtube: https://www.youtube.com/channel/UChTFW-Y9eg54AaTY_yama7A \
 bilibili：https://b23.tv/pqzW2up
 
 # 版本信息 Release Note
-2022/11/12: v0.8_zero2 Remix from [orange juice for orange pi zero](https://github.com/jeji/orange_juice) based on v0.8
+2022/11/12: v0.8_zero2 Remix from [orange juice for orange pi zero](https://github.com/jeji/orange_juice) based on v0.8 \
+
+**[香橙派Zero版本](https://github.com/jeji/orange_juice_2)** \
+**[Version for Orange Pi Zero](https://github.com/jeji/orange_juice_2)**
 
 # 信息 Information
 - 除**板子尺寸及GPIO配置与orange juice_zero有所区别**外，其他信息例如BOM等都与[orange juice for orange pi zero](https://github.com/jeji/orange_juice)一致
