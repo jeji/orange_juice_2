@@ -18,9 +18,9 @@ bilibili：https://b23.tv/pqzW2up
 - The zip file under "gerber" folder is exported from EasyEDA, it can be used to place order on JLC directly
 
 # 软件 Software
-**(!) 以下配置依赖香橙派已经被正确配置成klipper客户端** \
+**(!) 以下配置依赖香橙派已经被正确配置成klipper客户端，并且香橙派配置名为"opi"** \
 具体方法请参考 https://www.klipper3d.org/RPi_microcontroller.html \
-**(!) Following configuration is assuming that your pi has been config as a klipper client** \
+**(!) Following configuration is assuming that your pi has been config as a klipper client already with name "opi"** \
 If not, please refer to  https://www.klipper3d.org/RPi_microcontroller.html 
 
 ADXL345配置 \
