@@ -5,14 +5,16 @@ bilibili：https://b23.tv/pqzW2up
 # 版本信息 Release Note
 2022/11/12: v0.8_zero2 Remix from [orange juice for orange pi zero](https://github.com/jeji/orange_juice) based on v0.8 \
 
-**[香橙派Zero版本](https://github.com/jeji/orange_juice_2)** \
-**[Version for Orange Pi Zero](https://github.com/jeji/orange_juice_2)**
+**[香橙派Zero版本](https://github.com/jeji/orange_juice)** \
+**[Version for Orange Pi Zero](https://github.com/jeji/orange_juice)**
 
 # 信息 Information
-- 除**板子尺寸及GPIO配置与orange juice_zero有所区别**外，其他信息例如BOM等都与[orange juice for orange pi zero](https://github.com/jeji/orange_juice)一致
-- **(!)请确保你认真[orange juice for orange pi zero](https://github.com/jeji/orange_juice)说明文档**
+- 本项目是在[香橙派Zero版本](https://github.com/jeji/orange_juice)基础上为**香橙派zero2**设计的klipper扩展板
+- 除**板子尺寸及GPIO配置与[香橙派Zero版本](https://github.com/jeji/orange_juice_2)有所区别**外，其他信息例如BOM等都与[香橙派Zero版本](https://github.com/jeji/orange_juice)一致
+- **(!)请确保你认真[香橙派Zero版本](https://github.com/jeji/orange_juice)说明文档**
 - gerber文件夹下为嘉立创EDA导出文件，可直接领券下单 
 
+- This project is based on [Orange Pi Zero version](https://github.com/jeji/orange_juice)
 - Except **GPIO config and board size**, Other inform is same as [orange juice for orange pi zero](https://github.com/jeji/orange_juice)
 - **(!)Make sure you read [orange juice for orange pi zero](https://github.com/jeji/orange_juice) carefully**
 - The zip file under "gerber" folder is exported from EasyEDA, it can be used to place order on JLC directly
